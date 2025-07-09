@@ -1,0 +1,2 @@
+# BDA_ICP2
+PRATEESH URATI(700779551)_Big data Analytics: ICP2
